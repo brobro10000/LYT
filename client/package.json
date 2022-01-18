@@ -1,12 +1,14 @@
 {
   "name": "lyte",
   "version": "0.1.0",
+  "proxy": "http://localhost:3001",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.4.13",
     "@apollo/react-hooks": "^4.0.0",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
+    "@graphql-tools/schema": "^8.2.0",
     "@mui/icons-material": "^5.3.0",
     "@mui/material": "^5.3.0",
     "@testing-library/jest-dom": "^5.14.1",
